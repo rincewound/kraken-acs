@@ -1,33 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-//using EventStore.Client;
-//using kraken;
-//using kraken.model;
-//using kraken.serializer;
-
-//var model = new OrganisationalModel();
-//model.addGrid("foo");
-//model.addGrid("foo.bar");
-
-//var sg = model.getGrid("foo.bar");
-
-//Serializer.Serialize(model, "test.txt");
-
-//var model2 = Serializer.Derserialize("test.txt");
-
-//var sg2 = model2.getGrid("foo.bar");
-
-//var settings = EventStoreClientSettings.Create("esdb://127.0.0.1:2113?tls=false&keepAliveTimeout=10000&keepAliveInterval=10000");
-//var c = new kraken_client.Client(settings);
-
-//var events = c.streamEvents(0);
-
-//await events.ForEachAsync(e =>
-//{
-//    var evt = kraken.events.Event.fromUTF8(e.Event.Data.ToArray());
-//    evt.applyToModel(model2);
-//});
-
-using CommandLine;
+﻿using CommandLine;
 using EventStore.Client;
 
 class Program

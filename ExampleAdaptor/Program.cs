@@ -1,7 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using EventStore.Client;
 
-
 var client = new kraken_client.Client(EventStoreClientSettings.Create("esdb://127.0.0.1:2113?tls=false&keepAliveTimeout=10000&keepAliveInterval=10000"));
 
 var events = client.streamEvents(0);
