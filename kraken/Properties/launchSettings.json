@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "kraken": {
+      "commandName": "Project",
+      "commandLineArgs": "CreateGrid foo.bar"
+    }
+  }
+}
