@@ -1,0 +1,15 @@
+E:\code\kraken-acs\kraken-acs\kraken-client\bin\Debug\net6.0\kraken-client.deps.json
+E:\code\kraken-acs\kraken-acs\kraken-client\bin\Debug\net6.0\kraken-client.dll
+E:\code\kraken-acs\kraken-acs\kraken-client\bin\Debug\net6.0\ref\kraken-client.dll
+E:\code\kraken-acs\kraken-acs\kraken-client\bin\Debug\net6.0\kraken-client.pdb
+E:\code\kraken-acs\kraken-acs\kraken-client\bin\Debug\net6.0\kraken-model.dll
+E:\code\kraken-acs\kraken-acs\kraken-client\bin\Debug\net6.0\kraken-model.pdb
+E:\code\kraken-acs\kraken-acs\kraken-client\obj\Debug\net6.0\kraken-client.csproj.AssemblyReference.cache
+E:\code\kraken-acs\kraken-acs\kraken-client\obj\Debug\net6.0\kraken-client.GeneratedMSBuildEditorConfig.editorconfig
+E:\code\kraken-acs\kraken-acs\kraken-client\obj\Debug\net6.0\kraken-client.AssemblyInfoInputs.cache
+E:\code\kraken-acs\kraken-acs\kraken-client\obj\Debug\net6.0\kraken-client.AssemblyInfo.cs
+E:\code\kraken-acs\kraken-acs\kraken-client\obj\Debug\net6.0\kraken-client.csproj.CoreCompileInputs.cache
+E:\code\kraken-acs\kraken-acs\kraken-client\obj\Debug\net6.0\kraken-client.csproj.CopyComplete
+E:\code\kraken-acs\kraken-acs\kraken-client\obj\Debug\net6.0\kraken-client.dll
+E:\code\kraken-acs\kraken-acs\kraken-client\obj\Debug\net6.0\ref\kraken-client.dll
+E:\code\kraken-acs\kraken-acs\kraken-client\obj\Debug\net6.0\kraken-client.pdb

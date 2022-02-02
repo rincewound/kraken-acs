@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b344e6ab-5d0c-4f97-93f6-9893913a82db": {
+      "ProjectGuid": "b344e6ab-5d0c-4f97-93f6-9893913a82db",
+      "DisplayName": "kraken-cli",
+      "ColorIndex": 0
+    },
+    "49f923db-4c64-49ae-b6d0-8e511ee9334e": {
+      "ProjectGuid": "49f923db-4c64-49ae-b6d0-8e511ee9334e",
+      "DisplayName": "kraken-client",
+      "ColorIndex": 1
+    },
+    "6d343406-0895-407b-9e42-f34a73cb41da": {
+      "ProjectGuid": "6d343406-0895-407b-9e42-f34a73cb41da",
+      "DisplayName": "kraken-model",
+      "ColorIndex": 2
+    },
+    "cbf0f033-d60c-4180-a8cb-19ad2c7d9579": {
+      "ProjectGuid": "cbf0f033-d60c-4180-a8cb-19ad2c7d9579",
+      "DisplayName": "ExampleAdaptor",
+      "ColorIndex": 3
+    },
+    "44d426fb-5a07-432d-b41e-90428fc76443": {
+      "ProjectGuid": "44d426fb-5a07-432d-b41e-90428fc76443",
+      "DisplayName": "kraken-adaptor",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

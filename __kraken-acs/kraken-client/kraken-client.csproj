@@ -2,13 +2,16 @@
 
   <PropertyGroup>
     <TargetFramework>net6.0</TargetFramework>
-    <RootNamespace>kraken_adaptor</RootNamespace>
+    <RootNamespace>kraken_client</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\kraken-client\kraken-client.csproj" />
+    <PackageReference Include="EventStore.Client.Grpc.Streams" Version="21.2.0" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\kraken-model\kraken-model.csproj" />
   </ItemGroup>
 
